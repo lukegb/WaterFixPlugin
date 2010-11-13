@@ -2,8 +2,8 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry kind="lib" path="C:/Users/Luke/Downloads/Minecraft_mod 122/bin/Minecraft_Mod.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Luke/Downloads/Minecraft_mod 122/bin/minecraft_server.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Luke/Downloads/Minecraft_mod 122/bin/mysql-connector-java-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Luke/Downloads/Minecraft_mod/bin/Minecraft_Mod.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Luke/Downloads/Minecraft_mod/bin/minecraft_server.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Luke/Downloads/Minecraft_mod/bin/mysql-connector-java-bin.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
